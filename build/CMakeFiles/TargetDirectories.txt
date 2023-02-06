@@ -1,0 +1,4 @@
+/home/pepoa/Documentos/sim/build/CMakeFiles/rebuild_cache.dir
+/home/pepoa/Documentos/sim/build/CMakeFiles/Simulation.dir
+/home/pepoa/Documentos/sim/build/CMakeFiles/edit_cache.dir
+/home/pepoa/Documentos/sim/build/CMakeFiles/sim.dir
